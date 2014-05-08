@@ -299,14 +299,14 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #fff;
+  color: #09357A; /* #fff; */
   font-size: 42px;
   font-weight: 700;
   text-shadow: #E0E5EE 0px 0px 1px; /*#111 0px 0px 10px; */
 }
 
 #project_tagline {
-  color: #fff;
+  color: #09357A; /* #fff; */
   font-weight: 300;
   background: none;
   text-shadow: #E0E5EE 0px 0px 1px; /* #111 0px 0px 10px; */
