@@ -302,14 +302,14 @@ Full-Width Styles
   color: #fff;
   font-size: 42px;
   font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
+  text-shadow: #E0E5EE 0px 0px 1px; /*#111 0px 0px 10px; */
 }
 
 #project_tagline {
   color: #fff;
   font-weight: 300;
   background: none;
-  text-shadow: #111 0px 0px 10px;
+  text-shadow: #E0E5EE 0px 0px 1px; /* #111 0px 0px 10px; */
 }
 
 #downloads {
